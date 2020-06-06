@@ -1,0 +1,95 @@
+
+body{
+background-color:black;
+padding: 8px;
+color: white;
+}
+p{
+	font-family: sans-serif;
+	width: 50%;
+}
+a{
+	color: #0000ff;
+	text-decoration: none;
+}
+a:link.call{
+font-family: Sans-serif;
+  color: white;
+  border: 8px solid grey;
+  margin: 0%;
+  background-color: grey;
+  text-decoration: none;
+}
+a:visited.call{
+  color: blue;
+  background-color: transparent;
+  text-decoration: none;
+}
+a:hover.call{
+  color: black;
+  background-color: grey;
+  text-decoration: none;
+}
+a:active.call{
+  color: yellow;
+  background-color: transparent;
+  text-decoration: underline;
+}
+img{
+float:right;
+border: 6px solid grey;
+}
+ul.c{
+  list-style-type: none;
+    margin: 0;
+  padding: 0;
+}
+li a {
+	float: left;
+  border: 0px solid grey;
+  padding: 2px;
+  margin: 0%;
+
+}
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+td, th {
+  border: 1px solid white;
+  text-align: left;
+  padding: 8px;
+}
+img.k{
+	border: 1px solid white;
+}
+@media (max-width: 767px)
+{
+
+img
+{
+float: none;
+border: 6px solid grey;
+}
+img.k{
+	border: 1px solid white;
+}
+p{
+	font-family: sans-serif;
+	width: 100%;
+	font-size: 20px;
+}
+pre
+{
+	font-size: 18px;
+}
+td, th {
+  font-size: 18px;
+}
+ul.skil
+{
+	font-size: 18px;
+}
+}
