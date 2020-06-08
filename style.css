@@ -4,6 +4,11 @@ background-color:black;
 padding: 8px;
 color: white;
 }
+.di{
+  height:45px;
+  background-color: grey;    
+  text-align: center;
+}
 p{
 	font-family: sans-serif;
 	width: 50%;
