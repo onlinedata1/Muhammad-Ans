@@ -54,6 +54,7 @@ img.k{
   position: fixed;
   width: 100%;
   top: 0;
+  left: 0;
 }
 
 .navbar a {
@@ -61,17 +62,18 @@ img.k{
   display: block;
   color: #f2f2f2;
   text-align: center;
-  padding: 14px 16px;
+  padding: 14px 14px;
   text-decoration: none;
-  font-size: 13px;
+  font-size: 12px;
 }
 .download{
   background-color: grey;
-  width:100%;
+  width:40%;
   border: 1px solid black;
   text-align: center;
-  padding: 14px 16px;
+  padding: 14px 14px;
   text-decoration: none;
+  margin: 0;
   color: #f2f2f2;
 }
 .navbar a:hover {
