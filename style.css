@@ -87,10 +87,10 @@ img.logo
 img
 {
 float: none;
-border: 6px solid grey;
+border: 0px solid grey;
 }
 img.k{
-	border: 1px solid white;
+	border: 0px solid white;
 }
 p{
 	font-family: sans-serif;
