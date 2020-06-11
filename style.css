@@ -68,10 +68,12 @@ img.k{
 }
 .download{
   background-color: grey;
-  width:40%;
+  width:20%;
+  height: 40px;
   border: 1px solid black;
+  padding-top: 14px;
   text-align: center;
-  padding: 14px 14px;
+  font-size: 20px;
   text-decoration: none;
   margin: 0;
   color: #f2f2f2;
@@ -99,6 +101,14 @@ img.logo
   border: none;
   padding-right: none;
   float: left;
+}
+img.log
+{
+  border: none;
+  padding-right: none;
+  float: left;
+  border: 0px;
+  padding-left: 30px;
 }
 .dat{
   text-decoration: none;
@@ -133,5 +143,16 @@ td, th {
 ul.skil
 {
 	font-size: 20px;
+}
+.download{
+  width:70%;
+  height: 40px;
+  border: 1px solid black;
+  padding-top: 14px;
+  text-align: center;
+  font-size: 20px;
+  text-decoration: none;
+  margin: 0;
+  color: #f2f2f2;
 }
 }
