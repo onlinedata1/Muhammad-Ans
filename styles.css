@@ -1,0 +1,119 @@
+.navbar-brand{
+margin-left: 6%;
+}
+.headercolor{
+	 height: 60px;
+  background-color: #152238; /* For browsers that do not support gradients */
+  background-image: radial-gradient( #1520a6 , #152238);
+}
+.navbar {
+    padding: 0;
+}
+
+@media (max-width: 576px){
+.navbar-collapse {
+		 height: 130px;
+  background-color: #152238; /* For browsers that do not support gradients */
+  background-image: radial-gradient( #1520a6 , #152238);
+}
+}
+body{
+	height: 100%;
+	background-color: #152238;
+	color:white;
+}
+q i{
+	 text-shadow: 2px 2px black;
+}
+.row-content{
+	padding-top: 60px;
+}
+.btn-primary{
+	background-image: radial-gradient( #1520a6 , #152238);
+	height: 40px;
+	margin-top: 2%;
+	margin-bottom : 2%;
+	margin-left: 0%;
+
+}
+.shadow
+{
+	    box-shadow: 0px 0px 5px #988f8f;
+}
+button a{
+	color: white;
+}
+button a:hover , button a:active{
+	text-decoration: none;
+	color: #0492c2;
+}
+pre {
+	color: white;
+	}
+@media (max-width: 576px){
+.btn-primary{
+margin-left: 38%;
+}
+}
+.card-header{
+	 height: 60px;
+  background-color: #152238; /* For browsers that do not support gradients */
+  background-image: radial-gradient( #1520a6 , #152238);
+
+}
+.card-body{
+
+  background-color: #152238;	
+}
+.table{
+	color: white;
+}
+.panel-footer{
+	/*position: absolute;
+   left: 0;
+   bottom: 0;
+   width: 100%;*/
+opacity: 80%;
+line-height: 2;
+ background-color: #152238; /* For browsers that do not support gradients */
+ background-image: radial-gradient( #1520a6 , #152238);
+}
+@media (max-width: 576px){
+hr{
+	width: 80%;
+	background-color: white;
+}
+
+.panel-footer{
+ height: 50%;	
+  padding:0;
+   margin:0;
+    position:relative; 
+    right: 0;
+  bottom: 0;
+  left: 0;
+  width: 120%;
+}
+.Address{
+	text-align: center;
+}
+}
+p .fa-home{
+	color: black;
+}
+.fa-envelope{
+	color: red;
+}
+.fa-phone{
+	color: black;
+}
+.fa-whatsapp{
+	color: green;
+}
+section a{
+color: #f5f2d0;
+}
+section a:hover , section a:active{
+	text-decoration: none;
+color: #0492c2;
+}
