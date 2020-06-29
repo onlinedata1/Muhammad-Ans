@@ -56,8 +56,16 @@ pre {
 	color: white;
 	}
 @media (max-width: 576px){
+	p{
+		font-size: 20px;
+	}
+	pre{
+		font-size: 15px;
+	}
 .btn-primary{
-margin-left: 38%;
+margin-left: 33%;
+width: 38%;
+height: 50px;
 }
 }
 .card-header{
